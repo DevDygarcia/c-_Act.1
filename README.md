@@ -1,2 +1,2 @@
-# c-_Act.1
-Este es el modulo de Lenguaje C++
+# programacion_Act.1
+Este es el modulo de Programacion en Lenguaje C++
